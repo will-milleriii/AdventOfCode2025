@@ -7,11 +7,11 @@ namespace AdventOfCode2025
     {
         static void Main(string[] args)
         {
-            var solutions = new Day01();
+            var solutions = new Day02();
 
             var stopwatch = new Stopwatch();
             stopwatch.Start();
-            Console.WriteLine(solutions.Part2());
+            Console.WriteLine(solutions.Part1());
             stopwatch.Stop();
             var time = stopwatch.Elapsed;
             Console.WriteLine(time);
