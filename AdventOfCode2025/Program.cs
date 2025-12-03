@@ -11,7 +11,7 @@ namespace AdventOfCode2025
 
             var stopwatch = new Stopwatch();
             stopwatch.Start();
-            Console.WriteLine(solutions.Part1());
+            Console.WriteLine(solutions.Part2());
             stopwatch.Stop();
             var time = stopwatch.Elapsed;
             Console.WriteLine(time);
