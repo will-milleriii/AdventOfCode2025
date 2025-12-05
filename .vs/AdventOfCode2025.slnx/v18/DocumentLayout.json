@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{2E6EBADA-8E64-BC30-07A3-3BEEF61D9056}|AdventOfCode2025\\AdventOfCode2025.csproj|solutionrelative:adventofcode2025\\solutions\\day04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E6EBADA-8E64-BC30-07A3-3BEEF61D9056}|AdventOfCode2025\\AdventOfCode2025.csproj|c:\\users\\willm\\source\\repos\\adventofcode2025\\adventofcode2025\\inputs\\day04.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2E6EBADA-8E64-BC30-07A3-3BEEF61D9056}|AdventOfCode2025\\AdventOfCode2025.csproj|solutionrelative:adventofcode2025\\inputs\\day04.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E6EBADA-8E64-BC30-07A3-3BEEF61D9056}|AdventOfCode2025\\AdventOfCode2025.csproj|c:\\users\\willm\\source\\repos\\adventofcode2025\\adventofcode2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E6EBADA-8E64-BC30-07A3-3BEEF61D9056}|AdventOfCode2025\\AdventOfCode2025.csproj|solutionrelative:adventofcode2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6EBADA-8E64-BC30-07A3-3BEEF61D9056}|AdventOfCode2025\\AdventOfCode2025.csproj|c:\\users\\willm\\source\\repos\\adventofcode2025\\adventofcode2025\\inputs\\day04.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E6EBADA-8E64-BC30-07A3-3BEEF61D9056}|AdventOfCode2025\\AdventOfCode2025.csproj|solutionrelative:adventofcode2025\\inputs\\day04.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E6EBADA-8E64-BC30-07A3-3BEEF61D9056}|AdventOfCode2025\\AdventOfCode2025.csproj|c:\\users\\willm\\source\\repos\\adventofcode2025\\adventofcode2025\\solutions\\day03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Day04.txt",
               "DocumentMoniker": "C:\\Users\\willm\\source\\repos\\AdventOfCode2025\\AdventOfCode2025\\Inputs\\Day04.txt",
               "RelativeDocumentMoniker": "AdventOfCode2025\\Inputs\\Day04.txt",
@@ -78,8 +78,7 @@
               "RelativeToolTip": "AdventOfCode2025\\Inputs\\Day04.txt",
               "ViewState": "AgIAAGMAAAAAAAAAAAAowIoAAACLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-05T01:06:58.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T01:06:58.718Z"
             },
             {
               "$type": "Document",
@@ -89,7 +88,7 @@
               "RelativeDocumentMoniker": "AdventOfCode2025\\Solutions\\Day04.cs",
               "ToolTip": "C:\\Users\\willm\\source\\repos\\AdventOfCode2025\\AdventOfCode2025\\Solutions\\Day04.cs",
               "RelativeToolTip": "AdventOfCode2025\\Solutions\\Day04.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwHEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T14:09:48.396Z",
               "EditorCaption": ""
@@ -206,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\willm\\source\\repos\\AdventOfCode2025\\AdventOfCode2025\\Program.cs",
               "RelativeDocumentMoniker": "AdventOfCode2025\\Program.cs",
@@ -227,8 +226,7 @@
               "RelativeToolTip": "AdventOfCode2025\\Inputs\\Day04TestData.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-04T14:11:00.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:11:00.705Z"
             },
             {
               "$type": "Document",
